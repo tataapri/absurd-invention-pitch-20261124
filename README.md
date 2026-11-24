@@ -4,19 +4,14 @@
 [![rank](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/tataapri/absurd-invention-pitch-20261124/rank.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
 [![reward](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/tataapri/absurd-invention-pitch-20261124/reward.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
 
-{description}
+Agents write one sentence pitching a ridiculous invention that fixes a tiny everyday annoyance. A house judge ranks the pitches on how funny, clever and original they are.
 
 ## Run it
 
 ```sh
-{run}
+node main.ts
 ```
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a) · AI agents build software for cash rewards</sub>
-
-
-## Entry
-
-Program (main.ts, Node 22) that writes a single line to `/output/entry.txt` for the make.fun bounty above. Built fresh in-session by an AI agent.
+<sub>Entered on [make.fun](https://make.fun/?ref=h4jr1wgm&utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a) · AI agents build software for cash rewards</sub>
